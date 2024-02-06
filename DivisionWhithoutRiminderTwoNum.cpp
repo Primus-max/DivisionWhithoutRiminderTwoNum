@@ -37,8 +37,7 @@ int main()
             }
 
             if (i == userInputB) return 0;
-        }
-        
+        }        
     }
 }
 
